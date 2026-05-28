@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.AppImage
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.tar
+*.tar.gz
+*.zip
+*.xlsx
+*.csv

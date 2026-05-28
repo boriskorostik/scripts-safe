@@ -1,0 +1,88 @@
+/home/boris/script/22.py
+/home/boris/script/ac_modbus_cli.py
+/home/boris/script/ac_modbus_gui.py
+/home/boris/script/akuvox+proxy/akuvoxproxy.py
+/home/boris/script/akuvox+proxy/akuvoxproxyopen.py
+/home/boris/script/akuvox+proxy/snmp_manager.py
+/home/boris/script/beckup/check_backup.sh
+/home/boris/script/clean.sh
+/home/boris/script/curlOpenDoor.sh
+/home/boris/script/disable_port_from_snmp.py
+/home/boris/script/disp_knopki/disp.py
+/home/boris/script/enable_port_from_snmp.py
+/home/boris/script/flash для старого планша/flash_clone.sh
+/home/boris/script/import json.py
+/home/boris/script/importjson.py
+/home/boris/script/ipnetwork/ip.py
+/home/boris/script/iptables/iptables.py
+/home/boris/script/mbus-scaner/mbus-scaner.py
+/home/boris/script/mc/ssh2mc.py
+/home/boris/script/mc/ssh2mc.sh
+/home/boris/script/mikrotikbackup/mikrot.sh
+/home/boris/script/monitorudp/monitor.sh
+/home/boris/script/number/1.py
+/home/boris/script/number/24 работает выгрузка/phonenumber_server.py
+/home/boris/script/number/firewall/firewallssh.py
+/home/boris/script/number/for_serverv1.3.py
+/home/boris/script/number/import subprocess.py
+/home/boris/script/number/phonenumber_server.py
+/home/boris/script/number/phonenumber_server1.9.py
+/home/boris/script/number/server.py
+/home/boris/script/number/test rtsp.py
+/home/boris/script/number/v1/Client.py
+/home/boris/script/number/v1/Clientv1.4.py
+/home/boris/script/number/v1/Clientv1.6 database.py
+/home/boris/script/number/v1/dock_numb_cli/Clientv1.4.py
+/home/boris/script/number/v1/for_server.py
+/home/boris/script/number/v1/for_serverv1.2.py
+/home/boris/script/number/v1/for_serverv1.3.py
+/home/boris/script/number/v1/for_serverv1.5.py
+/home/boris/script/number/v1/for_serverv1.6 database.py
+/home/boris/script/number/v1/for_serverv1.95 database.py
+/home/boris/script/number/v1/import subprocess.py
+/home/boris/script/number/v1/phonenumber_server.py
+/home/boris/script/number/v1/phonenumber_server1.9work auth.py
+/home/boris/script/number/v1/python setup_db.py
+/home/boris/script/number/v1/qt5import subprocess.py
+/home/boris/script/number/v1/server.py
+/home/boris/script/number/v1/string66.py
+/home/boris/script/number/v2/client2.4test (2).py
+/home/boris/script/number/v2/server2.4test.py
+/home/boris/script/number/videoserver.py
+/home/boris/script/number/war.py
+/home/boris/script/number/Новая папка/Clientv1.4.py
+/home/boris/script/ocr-server/videoserver.py
+/home/boris/script/ownersort.sh
+/home/boris/script/pass/pas.py
+/home/boris/script/promenad.py
+/home/boris/script/python traffic_analysis.py
+/home/boris/script/script.py
+/home/boris/script/servmetriks/servmetriks.py
+/home/boris/script/snmp.py
+/home/boris/script/snmp_disable.py
+/home/boris/script/snmp_disable.sh
+/home/boris/script/snmp_monitor.py
+/home/boris/script/socks_proxy_gui.py
+/home/boris/script/ssh_gui.py
+/home/boris/script/ssh_proxv2.0/AppDir/usr/bin/module.py
+/home/boris/script/ssh_proxv2.0/sshproxy_leonid.py
+/home/boris/script/ssh_proxv2.0/sshproxy_lite.py
+/home/boris/script/ssh_proxv2.0/sshproxyv2.0.py
+/home/boris/script/ssh_proxy_chromium.py
+/home/boris/script/sshproxy.py
+/home/boris/script/sshproxy/AppDir/usr/bin/lib/argcomplete/bash_completion.d/python-argcomplete.sh
+/home/boris/script/sshproxy/AppDir/usr/bin/lib/pexpect/bashrc.sh
+/home/boris/script/sshproxy/AppDir/usr/bin/lib/tqdm/completion.sh
+/home/boris/script/sshproxy/clever_serial_updater.sh
+/home/boris/script/sshproxy/module.py
+/home/boris/script/sshproxy/moduleold.py
+/home/boris/script/sshproxy/setup.py
+/home/boris/script/sshproxy/sshproxyv1.5.py
+/home/boris/script/tablecount.py
+/home/boris/script/tablecountxls.py
+/home/boris/script/vless_manager/vless_manager.py
+/home/boris/script/war (4).py
+/home/boris/script/анализатро трафика/python traffic_analysis.py
+/home/boris/script/анализатро трафика/traffic_analysis.py
+/home/boris/script/программа помошник комсанд/terminalgid.py
+/home/boris/script/сайт/site.py
